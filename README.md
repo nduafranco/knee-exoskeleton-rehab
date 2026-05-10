@@ -7,11 +7,9 @@ This project was developed at JKUAT to evaluate three distinct linear actuation 
 ## Concept 3 Design Specifications
 The design prioritizes high torque density and mechanical precision to assist with post-operative recovery and gait synchronization.
 
-**Actuation:** NEMA 34 high-torque stepper motor.
-
-**Transmission:** SFU1204 precision ball screw (90% efficiency).
-
-**Frame Material:** Aluminum 6061-T6.
+* **Actuation:** NEMA 34 high-torque stepper motor.
+* **Transmission:** SFU1204 precision ball screw (90% efficiency).
+* **Frame Material:** Aluminum 6061-T6.
 * **Resolution:** 20-micron control precision (0.02 mm/step).
 
 ## Engineering Validation & FEA
