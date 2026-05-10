@@ -2,7 +2,7 @@
 # Smart Rehabilitation Knee Brace: Motorized Ball Screw Actuator
 
 ## Project Overview
-This project was developed at JKUAT to evaluate three distinct linear actuation systems for an active-assist knee exoskeleton. I led the development and simulation of **Concept 3: The Motorized Ball Screw System**, focusing on transforming the device from a passive brace into an active rehabilitation platform.
+This project was developed s part of a three-person design team at JKUAT to evaluate three distinct linear actuation systems for an active-assist knee exoskeleton. I led the development and simulation of **Concept 3: The Motorized Ball Screw System**, focusing on transforming the device from a passive brace into an active rehabilitation platform.
 
 ## Concept 3 Design Specifications
 The design prioritizes high torque density and mechanical precision to assist with post-operative recovery and gait synchronization.
